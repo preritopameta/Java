@@ -1,5 +1,4 @@
 # Java
-All my work on JAVA
 HOW TO INSTALL JAVA ENVIONMENT VARIABLES
 
 ------By Prerit OP Ameta ------ dated ----- 22 oct 2019 ----- 11:47pm

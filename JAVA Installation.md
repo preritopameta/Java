@@ -47,7 +47,7 @@ HOW TO INSTALL JAVA ENVIONMENT VARIABLES
     whether they are added or not.
 16. If still not add them without using the setx or setx -m command use PATH 
     instead of CLASSPATH in the command.
-
+17. https://user-images.githubusercontent.com/42682828/67320400-d22bde80-f52b-11e9-877c-897f188c050f.jpg)
 
 	
 

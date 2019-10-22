@@ -15,15 +15,21 @@ HOW TO INSTALL JAVA ENVIONMENT VARIABLES
 
 5. Now 1.8.0_221 is the version of the java that you installed, remember it.
 6. In the cmd type 
+
 				   setx JAVA_HOME "C:\Program Files\Java\jdk1.8.0_221"
+				   
    and then this
-                                   setx CLASSPATH "%PATH%;%JAVA_HOME%\bin";
+                                 
+				 setx CLASSPATH "%PATH%;%JAVA_HOME%\bin";
+				   
 7. Do remember to put your Version at the place of jdkl1.8.0_221
 8. If you earlier tried to do some stuff with the environment variables the you
    should us this command instead of the previous ones in the step 6
                    
 				   setx -m JAVA_HOME "C:\Program Files\Java\jdk1.8.0_221"
-	and then this			   
+				   
+	and then this		
+	
 				   setx -m CLASSPATH "%PATH%;%JAVA_HOME%\bin";
 				   
 	the only difference here is the -m which is to update/add.
